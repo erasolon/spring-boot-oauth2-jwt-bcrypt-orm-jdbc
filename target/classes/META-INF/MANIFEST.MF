@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring OAuth2 Server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: operator_erasolon
+Implementation-Vendor-Id: com.authserver
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-oauth2-jwt-bcrypt-orm-jdbc
+Created-By: Maven Integration for Eclipse
+

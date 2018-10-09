@@ -1,0 +1,6 @@
+com\erasolon\config\SecurityConfig.class
+com\erasolon\controller\DemoController.class
+com\erasolon\config\AuthorizationServerConfig.class
+com\erasolon\main\AuthorizationServerApplication.class
+com\erasolon\config\DatabaseConfig.class
+com\erasolon\config\ResourceServerConfig.class
